@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="PlankBalance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="960px" height="640px" viewBox="0 0 960 640" enable-background="new 0 0 960 640" xml:space="preserve">
+<g id="Background">
+	
+		<image overflow="visible" enable-background="new    " width="600" height="420" xlink:href="background.jpg"  onclick="background" transform="matrix(1.6 0 0 1.5238 -9.765625e-04 0.0029)">
+	</image>
+</g>
+<g id="Floor">
+	
+		<image overflow="visible" enable-background="new    " width="960" height="40" xlink:href="floor.png"  onclick="floor" transform="matrix(0.9999 0 0 0.9999 0.0591 600.0029)">
+	</image>
+</g>
+<g id="Palette">
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_TNT" xlink:href="blocks/rectCrate.png"  onclick="rect_tnt" transform="matrix(0.9999 0 0 0.9999 70.0122 679.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_DIRT" xlink:href="blocks/rectDirt.png"  onclick="rect_dirt" transform="matrix(0.9999 0 0 0.9999 286.0005 679.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.9999 0 0 0.9999 70.0122 771.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Rubber" xlink:href="blocks/rectRubber.png"  onclick="rect_rubber" transform="matrix(0.9999 0 0 0.9999 507 679.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.9999 0 0 0.9999 286.0005 771.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Steel" xlink:href="blocks/rectSteel.png"  onclick="rect_steel" transform="matrix(0.9999 0 0 0.9999 506.998 771.999)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="80" height="80" id="round_TNT" xlink:href="blocks/roundCrate.png"  onclick="round_tnt" transform="matrix(0.9999 0 0 0.9999 734 665.0029)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="80" height="80" id="round_DIRT" xlink:href="blocks/roundDirt.png"  onclick="round_dirt" transform="matrix(0.9999 0 0 0.9999 849 665.0029)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="80" height="80" id="round_ICE" xlink:href="blocks/roundIce.png"  onclick="round_ice" transform="matrix(0.9999 0 0 0.9999 730 757.0029)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="80" height="80" id="round_Rubber" xlink:href="blocks/roundRubber.png"  onclick="round_rubber" transform="matrix(0.9999 0 0 0.9999 849 757.0029)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="80" height="80" id="round_Steel" xlink:href="blocks/roundSteel.png"  onclick="round_steel" transform="matrix(0.9999 0 0 0.9999 791 836.9912)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="53" height="89" id="Plank" xlink:href="totem_plank.png"  onclick="plank" transform="matrix(0.9999 0 0 0.9999 0.0591 677.9873)">
+	</image>
+</g>
+<g id="gameObj">
+	
+		<image overflow="visible" enable-background="new    " width="53" height="89" id="Plank_1_" xlink:href="totem_plank.png"  onclick="plank" transform="matrix(0.9999 0 0 0.9999 193.6226 99.7891)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_3_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 375.0933 240.2773)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_12_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 375.0933 291.0234)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_13_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 375.0933 342.5195)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_5_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 537.8623 445.5117)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_4_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 604.3662 547.002)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_16_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.9225 0 0 1.0299 471.3584 497.0078)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_1_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 195.1211 497.7578)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_2_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 194.3721 394.7666)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_5_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 280.3721 547.7529)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_6_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 280.3721 394.7666)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_7_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 280.3721 343.2695)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_8_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 375.0938 446.2617)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_9_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 375.0938 497.7578)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_10_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 471.3584 547.7529)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_3_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 194.3721 291.7734)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Spikes_4_" xlink:href="blocks/rectSpikes.png"  onclick="rect_spikes" transform="matrix(0.2575 0 0 0.9999 194.3721 241.0273)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_15_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 375.0933 548.5039)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_11_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(1.1573 0 0 1.0299 195.1211 188.7812)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_6_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 194.3716 342.5195)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_8_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 194.3716 445.5117)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_10_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 194.3716 548.5039)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_1_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 280.3716 497.0078)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_ICE_2_" xlink:href="blocks/rectIce.png"  onclick="rect_ice" transform="matrix(0.2575 0 0 1.0299 280.3716 445.5117)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Rubber_1_" xlink:href="blocks/rectRubber.png"  onclick="rect_rubber" transform="matrix(1.0676 0 0 1.0299 375.8442 394.0156)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="200" height="50" id="rect_Rubber_2_" xlink:href="blocks/rectRubber.png"  onclick="rect_rubber" transform="matrix(1.0676 0 0 0.62 655.8633 567.5)">
+	</image>
+	
+		<text onclick="blocksToDestroy" transform="matrix(1 0 0 1 867.3477 72.5225)" enable-background="new    " font-family="'MyriadPro-Bold'" font-size="48">14</text>
+</g>
+</svg>

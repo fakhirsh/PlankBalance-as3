@@ -1,0 +1,11 @@
+delete :
+http://www.freesound.org/people/Ch0cchi/sounds/15348/
+
+win:
+http://www.freesound.org/people/sapht/sounds/61234/
+
+Game complete:
+http://www.freesound.org/people/pierrecartoons1979/sounds/90138/
+
+
+
